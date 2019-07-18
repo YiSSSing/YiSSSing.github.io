@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Lab web homework self-intro
 
-Template Name: Onassis
-Template URL: https://templatemag.com/onassis-bootstrap-agency-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+URL : https://yisssing.github.io
